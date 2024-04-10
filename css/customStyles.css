@@ -1,0 +1,16 @@
+.bg-primary{
+    background-color: rgb(255, 146, 164) !important;  
+
+}
+
+.text-primary{
+    color: rgb(255, 195, 204) !important;
+}
+
+a{
+    color: rgb(247, 24, 62);
+}
+
+body{
+    background-color: rgb(250, 248, 248);
+}
